@@ -1,0 +1,91 @@
+body{
+	margin:auto;
+	background-color:#edeff3;
+}
+
+#directory{
+	background-image:url('image/file.ico');
+	background-repeat:no-repeat;
+	padding-left:20px;
+	margin-bottom:10px;
+}
+
+#current_directory{
+	background-image:url('image/file.ico');
+	background-repeat:no-repeat;
+	padding-left:20px;
+	height:18px;
+	margin-bottom:18px;
+}
+
+#link{
+	margin:6px auto 6px auto;
+}
+
+#link a{
+	text-decoration:none;
+}
+
+#radio {
+	vertical-align:middle;
+}
+
+
+#file_link{
+	background-image:url('image/txt.png');
+	background-repeat:no-repeat;
+	padding-left:22px;
+}
+
+#set_box{
+	vertical-align:middle;
+}
+
+#header{
+	padding:10px;
+	border:10px solid #ccc;
+	background-color:#fff;
+}
+
+
+#wrapper{
+	border:15px solid #EDEFF3;
+}
+
+#header_wrapper{
+	border:15px solid #EDEFF3;
+}
+
+#container{
+	padding:10px;
+	border:solid 10px #ccc;
+	background-color:#fff;
+}
+
+#back{
+	float:left;
+}
+
+#preview{
+	float:left;
+}
+
+#top{
+	float:left;
+}
+
+#folder{
+	border:solid 1px #333;
+	margin:10px;
+	padding:10px;
+	background-color:#fff;
+}
+
+textarea{
+	margin:10px;
+	overflow:auto;
+}
+
+#saveView{
+	clear:both;
+}
